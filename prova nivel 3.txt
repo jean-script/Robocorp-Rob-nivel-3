@@ -1,0 +1,23 @@
+**************************************************
+		exceção comercial
+**************************************************
+
+Uma exceção comercial pode ser causada por dados inválidos, por exemplo. 
+Essa exceção pode exigir tratamento manual, pois tentar novamente não ajudará se os dados forem inválidos.
+
+**************************************************
+		exceção de aplicativo
+**************************************************
+
+As exceções do aplicativo são quaisquer exceções causadas por problemas técnicos. 
+Geralmente, eles podem ser resolvidos repetindo as ações até que sejam bem-sucedidas.
+
+
+
+**************************************************
+	Existe um padrão para isso!
+**************************************************
+
+você decide implementar o robô usando o padrão produtor-consumidor 
+o padrão produtor-consumidor usa uma tarefa para produzir itens de trabalho e outra para consumir esses itens.
+
